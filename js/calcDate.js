@@ -22,6 +22,6 @@ form.onsubmit = (event) => {
     renderOutput(`
         Лет: ${datesDiff.years}
         Месяцев: ${datesDiff.months}
-        Днем: ${datesDiff.days}
+        Дней: ${datesDiff.days}
     `)
 };
